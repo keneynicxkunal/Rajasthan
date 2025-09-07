@@ -72,7 +72,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to see your application running.
 
-## 🤖 Powered by Z.ai
+## 🤖 Powered by keneynicx
 
 This scaffold is optimized for use with [Z.ai](https://chat.z.ai) - your AI assistant for:
 
@@ -129,7 +129,7 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Type Safety**: End-to-end TypeScript with Zod validation
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
-## 🤝 Get Started with Z.ai
+## 🤝 Get Started with kunal
 
 1. **Clone this scaffold** to jumpstart your project
 2. **Visit [chat.z.ai](https://chat.z.ai)** to access your AI coding assistant
@@ -138,4 +138,4 @@ This scaffold includes a comprehensive set of modern web development tools:
 
 ---
 
-Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
+Built with ❤️ for the developer community. Supercharged by [kunal]🚀
